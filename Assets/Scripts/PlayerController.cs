@@ -20,5 +20,6 @@ public class PlayerController : MonoBehaviour
     public void Move()
     {
         rigidbody.MovePosition(Vector3)
+            //깃헙푸쉬 테스트 주석
     }
 }
